@@ -12,6 +12,10 @@ Built using Tableau, this project transforms raw complaints data into actionable
 | :------: | 
 | ![Home Tab](credit-card-complaints-dashboard-image.png) | 
 
+## 🌐 View Dashboard Online
+
+👉 [**View the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/sameera.tanveer/viz/Creditcardcomplaintsdashboard-project5/Creditcardcomplaintsdashboard)
+
 
 ## 📚 Domain Knowledge: Why Credit Card Complaint Analysis Matters
 Credit card companies face heavy scrutiny from regulators like the Consumer Financial Protection Bureau (CFPB) and consumers alike.
